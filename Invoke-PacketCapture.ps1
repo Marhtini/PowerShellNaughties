@@ -5,7 +5,7 @@
 # Found the Knuckles Copy-Pasta @ https://www.reddit.com/r/copypasta/comments/7sausf/ugandan_knuckles_ascii_art/ - I kno da wae
 # ETL to CAP conversion method (Credit: https://isc.sans.edu/diary/No+Wireshark%3F+No+TCPDump%3F+No+Problem!/19409)
 
-#TODO: Figure out port filtering
+#TODO: Figure out port filtering, automatic conversion after $maxSize met, NIC specific filtering.
 
 <#
 .SYNOPSIS
