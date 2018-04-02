@@ -69,7 +69,7 @@ param (
     [string]$persistance, # Persist after Reboot,
     #[string]$fileMode, # Set to Single to allow for No MaxSize (Defaults Correctly)
     [string]$maxSize, # Max Size in MB
-    [string]$convertedFile, # location of Converted ETL to CAP
+    [string]$convertedFile # location of Converted ETL to CAP
     #[string]$help # "You need help, man." - Everyone, probably. Use Get-Help.
     )
 
