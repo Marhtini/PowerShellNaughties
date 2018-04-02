@@ -180,5 +180,5 @@ elseif ($action -contains 'start'){
 
 else {
     Write-Host "Error: Please Specify 'start' or 'stop'"
-    Write-Host "Usage: Invoke-PacketCapture -action <start|stop>"
+    Write-Host "Usage: Invoke-PacketCapture -action <start|stop|covert>"
 }
