@@ -14,7 +14,7 @@
     There is an OPSEC tradeoff, as the netsh trace does not run as a seperate process but DOES write the pcap to file.
     If you do not pick an -outFile value, default is %APPDATA%\Local\Temp\NetTraces
 .DESCRIPTION
-    You used Get-Help! Do you need to know dae wae?
+    You used Get-Help!
 .PARAMETER Path
     The path to the .
 .PARAMETER LiteralPath
